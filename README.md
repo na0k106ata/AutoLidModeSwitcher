@@ -1,0 +1,2 @@
+# AutoLidModeSwitcher
+WindowsノートPCの蓋閉じ動作を電源状態に応じて自動切替
