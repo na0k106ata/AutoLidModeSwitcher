@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enigm\\source\\repos\\AutoLidModeSwitcher\\AutoLidModeSwitcher\\AutoLidModeSwitcher.csproj": {}
+    "C:\\Users\\enigm\\source\\repos\\na0k106ata\\AutoLidModeSwitcher\\AutoLidModeSwitcher\\AutoLidModeSwitcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enigm\\source\\repos\\AutoLidModeSwitcher\\AutoLidModeSwitcher\\AutoLidModeSwitcher.csproj": {
-      "version": "1.1.0",
+    "C:\\Users\\enigm\\source\\repos\\na0k106ata\\AutoLidModeSwitcher\\AutoLidModeSwitcher\\AutoLidModeSwitcher.csproj": {
+      "version": "1.2.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enigm\\source\\repos\\AutoLidModeSwitcher\\AutoLidModeSwitcher\\AutoLidModeSwitcher.csproj",
+        "projectUniqueName": "C:\\Users\\enigm\\source\\repos\\na0k106ata\\AutoLidModeSwitcher\\AutoLidModeSwitcher\\AutoLidModeSwitcher.csproj",
         "projectName": "AutoLidModeSwitcher",
-        "projectPath": "C:\\Users\\enigm\\source\\repos\\AutoLidModeSwitcher\\AutoLidModeSwitcher\\AutoLidModeSwitcher.csproj",
+        "projectPath": "C:\\Users\\enigm\\source\\repos\\na0k106ata\\AutoLidModeSwitcher\\AutoLidModeSwitcher\\AutoLidModeSwitcher.csproj",
         "packagesPath": "C:\\Users\\enigm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enigm\\source\\repos\\AutoLidModeSwitcher\\AutoLidModeSwitcher\\obj\\",
+        "outputPath": "C:\\Users\\enigm\\source\\repos\\na0k106ata\\AutoLidModeSwitcher\\AutoLidModeSwitcher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

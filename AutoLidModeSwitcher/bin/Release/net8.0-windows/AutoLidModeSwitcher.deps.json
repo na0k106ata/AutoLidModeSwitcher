@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "AutoLidModeSwitcher/1.1.0": {
+      "AutoLidModeSwitcher/1.2.0": {
         "runtime": {
           "AutoLidModeSwitcher.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "AutoLidModeSwitcher/1.1.0": {
+    "AutoLidModeSwitcher/1.2.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

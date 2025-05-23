@@ -66,7 +66,7 @@
 
 ## 開発者
 
-Naoki Obata
+na0k106ata
 
 ## 謝辞
 

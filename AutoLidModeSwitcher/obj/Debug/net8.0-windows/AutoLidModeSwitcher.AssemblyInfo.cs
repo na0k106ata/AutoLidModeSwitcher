@@ -11,15 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Naoki Obata")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("na0k106ata")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © 2025 Naoki Obata")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © 2025 na0k106ata")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("ノートPCの蓋を閉じたときの動作を電源状態に応じて自動的に切り替えます。")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.2.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.2.0+6ed0c33a90fb8a2528f05eb36033f76379f41cdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("クラムシェルモード自動切替")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoLidModeSwitcher")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.1.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.2.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
