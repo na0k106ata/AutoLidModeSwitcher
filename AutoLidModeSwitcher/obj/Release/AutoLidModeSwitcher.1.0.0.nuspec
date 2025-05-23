@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AutoLidModeSwitcher</id>
+    <version>1.0.0</version>
+    <authors>Naoki Obata</authors>
+    <description>ノートPCの蓋を閉じたときの動作を電源状態に応じて自動的に切り替えます。</description>
+    <copyright>Copyright © 2025 Naoki Obata</copyright>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0-windows7.0/icon_auto.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\enigm\source\repos\AutoLidModeSwitcher\AutoLidModeSwitcher\bin\Release\net8.0-windows\AutoLidModeSwitcher.runtimeconfig.json" target="lib\net8.0-windows7.0\AutoLidModeSwitcher.runtimeconfig.json" />
+    <file src="C:\Users\enigm\source\repos\AutoLidModeSwitcher\AutoLidModeSwitcher\bin\Release\net8.0-windows\AutoLidModeSwitcher.dll" target="lib\net8.0-windows7.0\AutoLidModeSwitcher.dll" />
+    <file src="C:\Users\enigm\source\repos\AutoLidModeSwitcher\AutoLidModeSwitcher\icon_auto.ico" target="content\icon_auto.ico" />
+    <file src="C:\Users\enigm\source\repos\AutoLidModeSwitcher\AutoLidModeSwitcher\icon_auto.ico" target="contentFiles\any\net8.0-windows7.0\icon_auto.ico" />
+  </files>
+</package>
